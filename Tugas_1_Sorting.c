@@ -4,7 +4,7 @@
 // IDENTITAS DIRI
 // Nama : Erik Maulana Hardianto
 // NIM  : 672021187
-// Kelas: TC121F
+// Kelas: TC122F
 
 int array[100], array2[100], size;
 
